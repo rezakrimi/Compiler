@@ -1,0 +1,29 @@
+comment
+extern
+void
+id
+LPAREN
+string
+RPAREN
+SEMICOLON
+int
+id
+LPAREN
+RPAREN
+LBRACE
+double
+id
+EQ
+float
+SEMICOLON
+id
+LPAREN
+string = Hello World!
+RPAREN
+SEMICOLON
+Integer
+comment
+RBRACE
+comment
+int
+invalid Identifier at line: 17 and column: 4
